@@ -1,0 +1,69 @@
+@charset "UTF-8";
+
+.cabecera{
+	background-color: steelblue;
+	text-align: center;
+	width: 100%;
+}
+
+html{
+	background-color: rgb(201, 223, 228);
+}
+
+
+h1{
+	font-size: 80px;
+	font-variant: small-caps;
+	word-spacing: 0.25em;
+
+}
+
+img{
+
+	margin-top: 2rem;
+
+	border-radius: 50%;
+
+	display: flex;
+
+	margin-left: 4rem;
+
+}
+
+main{
+
+	display: flex;
+
+	
+
+}
+
+.palabra{
+
+	font-size: 5rem;
+
+	margin-left: 500px;
+
+}
+
+.palabra:hover{
+
+	font-size: 6rem;
+
+}
+
+footer{
+
+	size: 5rem;
+
+}
+
+.lista{
+
+	margin-top: 10rem;
+
+	float: inline-end;
+
+	margin-right: 30rem;
+
+}

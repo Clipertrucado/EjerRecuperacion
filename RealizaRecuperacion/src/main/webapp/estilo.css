@@ -1,0 +1,61 @@
+@charset "UTF-8";
+.cabecera{
+	background-color: steelblue;
+	text-align: center;
+	width: 100%;
+}
+
+
+.texto{
+	text-align: left;
+	width: 100%;
+}
+
+li{
+	font-size: 40px;	
+}
+
+.contenedor{
+	width: 100%;
+	display: flex;
+}
+
+li:hover {
+  color: #07d544;
+  
+}
+
+.trabajo{
+	width: 35%;
+}
+
+h1{
+	font-size: 80px;
+	font-variant: small-caps;
+	word-spacing: 0.25em;
+
+}
+
+html{
+	background-color: rgb(201, 223, 228);
+}
+
+footer{
+	width: 100%;
+	display: flex;
+
+}
+
+.bot{
+	display: flex;
+}
+
+.bot1{
+	display: flex;
+	
+	margin-left: 75%;
+}
+
+.derecha{
+	padding: 40%;
+}

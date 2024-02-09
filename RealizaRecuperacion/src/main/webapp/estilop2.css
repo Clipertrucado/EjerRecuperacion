@@ -1,0 +1,64 @@
+@charset "UTF-8";
+
+h1 {
+	font-size: 80px;
+	font-variant: small-caps;
+	word-spacing: 0.25em;
+
+}
+
+.cabecera {
+	background-color: steelblue;
+	text-align: center;
+	width: 100%;
+}
+
+form {
+	width: 50%;
+}
+
+.contenedor {
+	width: 100%;
+	text-align: center;
+}
+
+.contenedor2 {
+	width: 100%;
+	display: flex;
+}
+
+progress {
+	font-size: 300%;
+
+}
+
+.centrar {
+	text-align: center;
+}
+
+html {
+	background-color: rgb(201, 223, 228);
+	
+}
+
+footer {
+	width: 100%;
+	display: flex;
+	
+}
+
+.bot {
+	width: 50%;
+	text-align: left;
+}
+
+.bot1 {
+	width: 50%;
+	text-align: right;
+}
+.focus{
+	color: rgb(0, 0, 0);
+}
+.focus:focus{
+	color: rgb(255, 128, 255);
+}
